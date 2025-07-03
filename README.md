@@ -12,4 +12,4 @@ This project aims to detect Halo Coronal Mass Ejections (CMEs) using Aditya-L1's
 - [CACTUS CME Catalog](http://www.sidc.be/cactus/)
 
 ## Team
-*Name, Role, Contact*
+ISRO_LANDERS
